@@ -1,2 +1,0 @@
-# Paycheck-Icon
-Paycheck Icon
